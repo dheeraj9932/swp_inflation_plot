@@ -32,10 +32,12 @@ All of this with a beautiful Plotly plot + an option to save the image locally.
 - Python ≥ 3.8
 - All dependencies listed in `requirements.txt`
 
+---
+# Example usage
+![Visualization of SWP vs Inflation Adjusted Value](media/usage_example.png)
+---
+
 Install everything in one go:
 ```bash
 pip install -r requirements.txt
 
-
-# Example usage
-![Visualization of SWP vs Inflation Adjusted Value](media/usage_example.png)
