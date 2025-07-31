@@ -35,3 +35,7 @@ All of this with a beautiful Plotly plot + an option to save the image locally.
 Install everything in one go:
 ```bash
 pip install -r requirements.txt
+
+
+# Example usage
+![Visualization of SWP vs Inflation Adjusted Value](media/usage_example.png)
